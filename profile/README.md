@@ -11,6 +11,6 @@ This video covers our core philosophies:
 (2) Sensible Deployment
 (3) Reducing cyclomatic complexity.
 
-To find out more pleas visit us at heliosdev.shop
+To find out more pleas visit us at https://heliosdev.shop
 
 #testing #tdd #automatedtesting #react #rails #rubyonrails
